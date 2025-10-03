@@ -1,0 +1,82 @@
+Which language runs in JVM?
+Python
+C++
+Java
+C
+2
+Where is gitam main campus located ?
+vizag
+delhi
+mumbai
+bengaluru
+0
+Which of the following is not a Java primitive data type?
+int
+float
+string
+boolean
+2
+
+In SQL, which command is used to remove a table completely?
+DELETE
+DROP
+REMOVE
+TRUNCATE
+1
+
+Who is known as the father of the C programming language?
+James Gosling
+Dennis Ritchie
+Bjarne Stroustrup
+Guido van Rossum
+1
+
+Which protocol is used to send emails?
+HTTP
+FTP
+SMTP
+SNMP
+2
+
+In networking, IP stands for?
+Internet Program
+Internal Protocol
+Internet Protocol
+Integrated Process
+2
+
+Which company developed the Windows operating system?
+Apple
+Google
+Microsoft
+IBM
+2
+
+In object-oriented programming, which concept is shown by “same method name but different parameters”?
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+1
+
+What does HTML stand for?
+Hyper Text Markup Language
+High Transfer Machine Language
+Hyper Transfer Markup Language
+High Text Markup Language
+0
+
+Which of the following is an example of a NoSQL database?
+MySQL
+Oracle
+MongoDB
+PostgreSQL
+2
+
+In operating systems, deadlock occurs when:
+Processes execute simultaneously
+Processes wait indefinitely for resources
+Memory is overloaded
+CPU utilization is high
+1
+
