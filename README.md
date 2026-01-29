@@ -4,13 +4,12 @@
 A **Java-based Online Exam System** that allows students to log in, attempt objective tests, and view results.  
 Built with **Core Java, OOP, Data Structures (HashMap, ArrayList), and File Handling**.
 
-> This project demonstrates the application of object-oriented design, data persistence, and modular system architecture in a Java-based CLI application.
-
+> Demonstrates object-oriented design, modular architecture, and persistent data handling in a Java-based CLI application.
 
 ---
 
 ## 🚀 Features
-- 👨‍🎓 **Student Login** (credentials stored securely via HashMap & files)
+- 👨‍🎓 **Student Login** (credentials managed using HashMap & file storage)
 - 📚 **Admin Module** (add/remove questions, view results)
 - ❓ **Randomized Question Paper** (unique test for each attempt)
 - 📊 **Auto Score Calculation** after submission
@@ -27,35 +26,29 @@ Built with **Core Java, OOP, Data Structures (HashMap, ArrayList), and File Hand
 ---
 
 ## 📂 Project Structure
-```
 OnlineExamSystem/
 ├── src/
-│ ├── Main.java
-│ ├── model/
-│ │ ├── Student.java
-│ │ └── Question.java
-│ ├── service/
-│ │ ├── ExamService.java
-│ │ └── AdminService.java
-│ └── util/
-│ └── FileUtil.java
+│   ├── Main.java
+│   ├── model/
+│   │   ├── Student.java
+│   │   └── Question.java
+│   ├── service/
+│   │   ├── ExamService.java
+│   │   └── AdminService.java
+│   └── util/
+│       └── FileUtil.java
 └── data/
-├── students.txt
-├── questions.txt
-└── results.txt
-```
-
----
-
+    ├── students.txt
+    ├── questions.txt
+    └── results.txt
+    
 ## 🔮 Future Improvements
-- ✅ Upgrade from File Handling → **MySQL Database (JDBC)**
-- ✅ Add **Spring Boot REST APIs** for web version
-- ✅ Add **Web UI / Frontend** for students & admins
+- Replace file-based storage with a relational database using JDBC
+- Expose core functionalities via REST APIs
+- Build a simple web-based interface for students and admins
 
 ---
-
-## 📸 Demo (Sample Menu)
-```
+## 📸 Sample Console Output
 === Online Exam System ===
 
 1. Student Login
@@ -63,12 +56,10 @@ OnlineExamSystem/
 2. Admin Login
 
 3. Exit
-```
-
-
 ---
 
 ## 👨‍💻 Author
 - **Rajesh Reddy**
 - 📧 Email: rajesh.reddi06@gmail.com
-- 🌐 [GitHub Profile](https://github.com/RajeshReddi)  
+- 🌐 [GitHub Profile](https://github.com/RajeshReddi)
+
