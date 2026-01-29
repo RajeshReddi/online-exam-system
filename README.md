@@ -43,14 +43,14 @@ OnlineExamSystem/
     ├── questions.txt
     └── results.txt
 
----   
-## 🔮 Future Improvements
+
+ 🔮 Future Improvements
 - Replace file-based storage with a relational database using JDBC
 - Expose core functionalities via REST APIs
 - Build a simple web-based interface for students and admins
 
 ---
-## 📸 Sample Console Output
+ 📸 Sample Console Output
 === Online Exam System ===
 
 1. Student Login
@@ -60,7 +60,7 @@ OnlineExamSystem/
 3. Exit
 ---
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 - **Rajesh Reddy**
 - 📧 Email: rajesh.reddi06@gmail.com
 - 🌐 [GitHub Profile](https://github.com/RajeshReddi)
