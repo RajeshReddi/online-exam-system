@@ -4,7 +4,8 @@
 A **Java-based Online Exam System** that allows students to log in, attempt objective tests, and view results.  
 Built with **Core Java, OOP, Data Structures (HashMap, ArrayList), and File Handling**.
 
-> This project demonstrates my understanding of **OOP concepts, data persistence, and system design**, making it a great foundational project for scalable applications.
+> This project demonstrates the application of object-oriented design, data persistence, and modular system architecture in a Java-based CLI application.
+
 
 ---
 
