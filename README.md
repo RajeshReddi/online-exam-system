@@ -26,7 +26,7 @@ Built with **Core Java, OOP, Data Structures (HashMap, ArrayList), and File Hand
 ---
 
 ## 📂 Project Structure
-
+```text
 OnlineExamSystem/
 ├── src/
 │   ├── Main.java
@@ -42,7 +42,7 @@ OnlineExamSystem/
     ├── students.txt
     ├── questions.txt
     └── results.txt
----
+
     
 ## 🔮 Future Improvements
 - Replace file-based storage with a relational database using JDBC
