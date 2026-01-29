@@ -24,23 +24,6 @@ Built with **Core Java, OOP, Data Structures (HashMap, ArrayList), and File Hand
 - **Tools:** Git, GitHub
 
 ---
-
-## 🔮 Future Improvements
-- Replace file-based storage with a relational database using JDBC
-- Expose core functionalities via REST APIs
-- Build a simple web-based interface for students and admins
-
----
-
-## 📸 Sample Console Output
-
-=== Online Exam System ===
-
-1. Student Login
-2. Admin Login
-3. Exit
----
-
 ## 📂 Project Structure
 ```text
 OnlineExamSystem/
@@ -59,6 +42,22 @@ OnlineExamSystem/
     ├── questions.txt
     └── results.txt
 ```
+
+## 🔮 Future Improvements
+- Replace file-based storage with a relational database using JDBC
+- Expose core functionalities via REST APIs
+- Build a simple web-based interface for students and admins
+
+---
+
+## 📸 Sample Console Output
+
+=== Online Exam System ===
+
+1. Student Login
+2. Admin Login
+3. Exit
+---
 
 
 ## 👨‍💻 Author
