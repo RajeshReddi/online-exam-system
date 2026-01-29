@@ -33,13 +33,13 @@ Built with **Core Java, OOP, Data Structures (HashMap, ArrayList), and File Hand
 ---
 
 ## 📸 Sample Console Output
-```text
+
 === Online Exam System ===
 
 1. Student Login
 2. Admin Login
 3. Exit
-
+---
 
 ## 📂 Project Structure
 ```text
@@ -58,10 +58,10 @@ OnlineExamSystem/
     ├── students.txt
     ├── questions.txt
     └── results.txt
+```
 
 
-
-👨‍💻 Author
+## 👨‍💻 Author
 
 Rajesh Reddy
 
